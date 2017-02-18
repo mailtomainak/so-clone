@@ -1,0 +1,23 @@
+{
+  "name": "so-clone",
+  "authors": [
+    "mainak <mailtomainak@gmail.com>"
+  ],
+  "description": "test bed",
+  "main": "index.html",
+  "keywords": [
+    "test"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.2"
+  }
+}
